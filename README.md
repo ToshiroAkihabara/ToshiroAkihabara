@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+cod&weight=100&size=15&pause=1000&color=7420E6FF&background=FFFDFF00&Center=true&multiline=true&repeat=false&height=90&lines=class+Junior_Python_Developer%3A;def+__init__(self%2C+name)%3A;self.name+%3D+name;Person+%3D+Junior_Python_Developer("ToshiroAkihabara"))](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+cod&weight=120&size=15&pause=1000&color=7420E6FF&background=FFFDFF00&Center=true&multiline=true&repeat=false&height=90&lines=class+Junior_Python_Developer%3A;def+__init__(self%2C+name)%3A;self.name+%3D+name;Person+%3D+Junior_Python_Developer("ToshiroAkihabara"))](https://git.io/typing-svg) 
 
 ![](https://komarev.com/ghpvc/?username=ToshiroAkihabara&label=OBJECTS+OF+CLASS&style=plastic&color=blueviolet)
 
