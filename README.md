@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ToshiroAkihabara&label=OBJECTS+OF+CLASS&style=plastic&color=blueviolet)
 ---
-
+![](https://github.com/ToshiroAkihabara/GHT/blob/master/github_stats.svg)
 
 <!--
 **ToshiroAkihabara/ToshiroAkihabara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
