@@ -3,6 +3,12 @@
 ![](https://komarev.com/ghpvc/?username=ToshiroAkihabara&label=OBJECTS+OF+CLASS&style=plastic&color=blueviolet)
 ---
 
+Hello there,
+- I'm a Junior Python Developer based in Saint-Petersburg, Russia.
+- Currently, I'm in learning process of backend development. 
+- Besides coding in Python I'm working as Service Engineer in Pentax Medical.
+---
+
 ### :computer: Languages & Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -11,15 +17,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
 ---
 
-Hello there,
-- I'm a Junior Python Developer based in Saint-Petersburg, Russia.
-- Currently, I'm in learning process of backend development. 
-- Besides coding in Python I'm working as Service Engineer in Pentax Medical. 
-
----
 ### :envelope: Contacts :
 <div id="badges">
   <a href="https://t.me/ToshiroAi">
