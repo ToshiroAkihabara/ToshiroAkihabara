@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+cod&weight=100&size=15&pause=1000&color=7420E6FF&background=FFFDFF00&Center=true&multiline=true&repeat=false&height=90&lines=class+Python_Developer%3A;def+__init__(self%2C+name)%3A;self.name+%3D+name;Person+%3D+Python_Developer("ToshiroAkihabara"))](https://git.io/typing-svg) <div id="header" align="right">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
-  </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+cod&weight=100&size=15&pause=1000&color=7420E6FF&background=FFFDFF00&Center=true&multiline=true&repeat=false&height=90&lines=class+Python_Developer%3A;def+__init__(self%2C+name)%3A;self.name+%3D+name;Person+%3D+Python_Developer("ToshiroAkihabara"))](https://git.io/typing-svg) 
 
 ![](https://komarev.com/ghpvc/?username=ToshiroAkihabara&label=OBJECTS+OF+CLASS&style=plastic&color=blueviolet)
 
@@ -31,6 +29,13 @@
     <img src="https://img.shields.io/badge/Gmail-darkviolet?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
+---
+
+<div id="header" align="right">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
+</div>
+
 <!--
 **ToshiroAkihabara/ToshiroAkihabara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
