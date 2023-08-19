@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ToshiroAkihabara&label=OBJECTS+OF+CLASS&style=plastic&color=blueviolet)
 
 ---
-
+### :page_facing_up: Info about :
 Hello there,
 - I'm a Junior Python Developer based in Saint-Petersburg, Russia.
 - Currently, I'm in learning process of backend development. 
