@@ -33,7 +33,7 @@
 ---
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThsYjBpeWl3ZTB5anIyYWliZHV1NHQ0ZjVqbzRoZnFsM2NoMThqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
 <!--
