@@ -15,9 +15,9 @@
 ---
 
 Hello there,
-I'm a Junior Python Developer based in Saint-Petersburg, Russia.
-Currently, I'm in learning process of backend development. 
-Besides coding in Python I'm working as Service Engineer in Pentax Medical. 
+-I'm a Junior Python Developer based in Saint-Petersburg, Russia.
+Currently, -I'm in learning process of backend development. 
+-Besides coding in Python I'm working as Service Engineer in Pentax Medical. 
 
 ---
 ### :envelope: Contacts :
