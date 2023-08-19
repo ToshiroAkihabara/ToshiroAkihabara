@@ -12,7 +12,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=ToshiroAkihabara&theme=dark)](https://git.io/streak-stats)
+
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ToshiroAkihabara&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **ToshiroAkihabara/ToshiroAkihabara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
