@@ -17,7 +17,7 @@
   <a href="https://t.me/ToshiroAi">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="sojen1970@gmail.com">sojen1970@gmail.com</a>
+  <a href="mailto:sojen1970@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-darkviolet?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
