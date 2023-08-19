@@ -2,14 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=ToshiroAkihabara&label=OBJECTS+OF+CLASS&style=plastic&color=blueviolet)
 
----                                                                                                            <div id="header" align="right">
-  <img src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif" width="100"/>
-  </div>
+---                
 ### :page_facing_up: Hello there,
 - I'm a Junior Python Developer based in Saint-Petersburg, Russia.
 - Currently, I'm in learning process of backend development. 
 - Besides coding in Python I'm working as Service Engineer in Pentax Medical.
-  
+  <div id="header" align="right">
+  <img src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif" width="100"/>
+  </div>
 ---
 
 ### :computer: Languages & Tools :
