@@ -1,5 +1,7 @@
 class Python_Developer:
+  
   def __init__(self, name):
+    
     self.name = name
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+cod&weight=100&size=15&pause=1000&color=6A02F7&background=FFFDFF00&Center=true&multiline=true&repeat=false&height=90&lines=Person+%3D+Python_Developer("ToshiroAkihabara"))](https://git.io/typing-svg)
