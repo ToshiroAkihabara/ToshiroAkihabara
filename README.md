@@ -8,7 +8,7 @@
 - Currently, I'm in learning process of backend development. 
 - Besides coding in Python I'm working as Service Engineer in Pentax Medical.
   <div id="header" align="right">
-  <img src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
   </div>
 ---
 
