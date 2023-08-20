@@ -32,5 +32,5 @@
 </div>
 
 <div id="header" align="center">
-<img src="https://github.com/ToshiroAkihabara/icons/blob/main/snake.svg" width="500"/>
+<img src="https://github.com/ToshiroAkihabara/icons/blob/main/snake.svg" width="1000"/>
 </div>
