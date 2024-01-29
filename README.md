@@ -1,6 +1,3 @@
-
----  
-
 ### :page_facing_up: Hello there,
 - I'm a Junior Python Developer based in Saint-Petersburg, Russia.
 - Besides coding in Python I'm working as Service Engineer in Pentax Medical.
