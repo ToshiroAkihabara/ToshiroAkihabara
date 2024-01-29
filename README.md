@@ -6,7 +6,6 @@
 
 ### :page_facing_up: Hello there,
 - I'm a Junior Python Developer based in Saint-Petersburg, Russia.
-- Currently, I'm in learning process of parsing, telegram bots, databases.
 - Besides coding in Python I'm working as Service Engineer in Pentax Medical.
 ---
 
