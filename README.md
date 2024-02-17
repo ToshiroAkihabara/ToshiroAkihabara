@@ -1,5 +1,5 @@
 ### :page_facing_up: Hello there,
-I'm a Python Developer based in Saint-Petersburg, Russia.
+- I'm a Python Developer based in Saint-Petersburg, Russia.
 ---
 
 ### Languages & Tools :
