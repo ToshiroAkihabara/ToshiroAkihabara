@@ -1,4 +1,4 @@
-### :page_facing_up: Hello there,
+### :page_facing_up: Welcome,
 - I'm a Python Developer based in Saint-Petersburg, Russia.
 ---
 
