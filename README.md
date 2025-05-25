@@ -3,11 +3,11 @@
 - Working on a project with over 100,000,000 lines of legacy code. Had the opportunity to work on three different teams with different parts of the code base.
 - Interacting with Event-Driven Architecture. Known with RPC, streams, data compression and client-server interation. Working according to the principles of Agile and Git flow.
 - Besides, I have experience with FastAPI, RabbitMQ, PostgreSQL, SQLAlchemy, Redis, Celery, Alembic and Pytest. Familiar with CI/CD development cycle and Docker.
+- Developed features and interacted with Grafana and Prometheus.
 ---
 
 ### Languages & Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pyCharm" alt="pyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
