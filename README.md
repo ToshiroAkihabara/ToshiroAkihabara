@@ -1,4 +1,4 @@
-### :page_facing_up: Welcome,
+### :page_facing_up: Hello there,
 - I'm a Python Developer based in Saint-Petersburg, Russia. Currently I'm working in game development as game logic developer.
 - Interacted with Event-Driven Architecture. Known with RPC, streams, data compression and client-server interation. 
 - Worked on a project with over 100,000,000 lines of legacy code. Had the opportunity to work on three different teams with different parts of the code base.
