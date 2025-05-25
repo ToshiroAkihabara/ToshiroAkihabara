@@ -20,7 +20,7 @@
 
 ### Contacts :
 <div id="badges">
-  <a href="https://t.me/ToshiroAi">
+  <a href="https://t.me/ToshiroAkihabara">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:sojen1970@gmail.com">
