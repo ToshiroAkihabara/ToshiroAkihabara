@@ -1,8 +1,8 @@
 ### 🔖 Hello there,
-- I'm a Python Developer based in Saint-Petersburg, Russia. Currently I'm working in game development as game logic developer.
-- Interacting with Event-Driven Architecture. Known with RPC, streams, data compression and client-server interation. 
+- I'm a Python Developer based in Saint-Petersburg, Russia. I am currently working in game development as a game logic developer.
 - Working on a project with over 100,000,000 lines of legacy code. Had the opportunity to work on three different teams with different parts of the code base.
 - Besides, I have experience with FastAPI, RabbitMQ, PostgreSQL, SQLAlchemy, Redis, Celery, Alembic and Pytest. Familiar with CI/CD development cycle and Docker.
+- Interacting with Event-Driven Architecture. Known with RPC, streams, data compression and client-server interation. Working according to the principles of Agile and Git flow.
 ---
 
 ### Languages & Tools :
@@ -13,6 +13,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
 </div>
 
 ---
