@@ -26,6 +26,9 @@
   <a href="mailto:sojen1970@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-darkviolet?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/anton-pusko-a6b259294">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <div id="header" align="center">
