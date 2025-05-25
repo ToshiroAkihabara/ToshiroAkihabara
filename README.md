@@ -5,7 +5,7 @@
 - Besides, I have experience with FastAPI, RabbitMQ, PostgreSQL, SQLAlchemy, Redis, Celery, Alembic and Pytest. Familiar with CI/CD development cycle and Docker. Developed services and interacted with Grafana and Prometheus.
 ---
 
-### Languages & Tools :
+### LANGUAGES & TOOLS :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pyCharm" alt="pyCharm" width="40" height="40"/>&nbsp;
@@ -18,7 +18,7 @@
 
 ---
 
-### Contacts :
+### CONTACTS :
 <div id="badges">
   <a href="https://t.me/ToshiroAkihabara">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
