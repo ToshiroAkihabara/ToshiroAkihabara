@@ -1,5 +1,5 @@
 ### 🔖 Hello there,
-- I'm a Python Developer based in Saint-Petersburg, Russia. I am currently working in game development as a game logic developer.
+- I'm a Python Developer based in Saint-Petersburg, Russia. I am currently working in game development as a Game Logic Developer.
 - Working on a project with over 100,000,000 lines of legacy code. Had the opportunity to work on three different teams with different parts of the code base.
 - Interacting with Event-Driven Architecture. Known with RPC, streams, data compression and client-server interation. Working according to the principles of Agile and Git flow.
 - Besides, I have experience with FastAPI, RabbitMQ, PostgreSQL, SQLAlchemy, Redis, Celery, Alembic and Pytest. Familiar with CI/CD development cycle and Docker.
