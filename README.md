@@ -23,7 +23,7 @@
   <a href="https://t.me/ToshiroAkihabara">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:sojen1970@gmail.com">
+  <a href="mailto:toshiroartistai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-darkviolet?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/anton-pusko-a6b259294">
