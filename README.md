@@ -1,5 +1,5 @@
 ### 🔖 Hello there,
-- I'm a Python Developer based in Saint-Petersburg, Russia. Сurrently, I working in GameDev.
+- I'm a Python Developer based in Saint-Petersburg, Russia. Сurrently, I'm working in GameDev.
 - I have working experience with over 100,000,000 lines of legacy code. Had the opportunity to work on three different teams with different parts of the code base.
 - Familiar with RPC, Event-Driven Architecture (EDA), streams, data compression and client-server interation. Working according to the principles of Agile and GitFlow.
 - Besides, I have experience with FastAPI, RabbitMQ, PostgreSQL, SQLAlchemy, Redis, Celery, Alembic and Pytest. Familiar with CI/CD development cycle and Docker. Developed services and interacted with Grafana and Prometheus.
