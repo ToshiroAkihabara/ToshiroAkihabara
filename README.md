@@ -1,4 +1,4 @@
-### 🔖 Hello there, 
+### 🔖 Hello everyone, 
 I'm Backend Developer with experience in high-load gaming systems and B2B medical technology solutions. 
 Skilled at delving deep into architecture and enhancing product stability. 
 Experienced in cross-functional teams with a proven ability to quickly adapt to new processes and tech stacks.
