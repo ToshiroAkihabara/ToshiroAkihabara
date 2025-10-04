@@ -1,11 +1,13 @@
-### 🔖 Hello everyone, 
-I'm Software Engineer with experience in high-load gaming systems and B2B medical technology solutions. 
-Skilled at delving deep into architecture and enhancing product stability. 
-Experienced in cross-functional teams with a proven ability to quickly adapt to new processes and tech stacks.
+---
+
+### ABOUT:
+Backend Engineer with hands-on experience in building high-load gaming systems and B2B MedTech solutions. 
+I specialize in creating reliable backend services, optimizing performance, and delivering tools that bring measurable business impact. 
+Comfortable working in cross-functional teams, adapting to new technologies, and turning complex requirements into scalable solutions.
 
 ---
 
-### LANGUAGES & TOOLS :
+### TECHNICAL SKILLS:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pyCharm" alt="pyCharm" width="40" height="40"/>&nbsp;
