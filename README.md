@@ -30,7 +30,3 @@ Experienced in cross-functional teams with a proven ability to quickly adapt to 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-<div id="header" align="center">
-<img src="https://raw.githubusercontent.com/Gchism94/Gchism94/output/github-contribution-grid-snake-dark.svg" width="1000"/>
-</div>
