@@ -1,4 +1,3 @@
----
 <div id="badges">
   <a href="https://t.me/tonnydev">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
